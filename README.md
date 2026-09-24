@@ -1,6 +1,6 @@
 # maind-creative-coding-foundations-lessons
 
-##About
+## About
 
 This repository contains the examples seen during the lesson
 
